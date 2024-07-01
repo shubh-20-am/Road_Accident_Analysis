@@ -30,6 +30,10 @@ EDA involved exploring the data to answer key questions such as :
 2.  Relation between casualties by Day/Night.
 3.  Distribution of total casualties by road surface.
 
+### Data Visualization 
+![Screenshot 2024-07-01 165709](https://github.com/shubh-20-am/Road_Accident_Dashboard/assets/141903981/7730b54e-09ed-4de3-b7a3-8c207dd1b524)
+
+
 ### Results/Findings
 
 The analysis results are summarised as follows : 
