@@ -5,7 +5,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [Data Visualization](#data-visualization)
 
 ### Project Overview
 
